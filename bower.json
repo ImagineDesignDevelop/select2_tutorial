@@ -1,0 +1,21 @@
+{
+  "name": "select2",
+  "authors": [
+    "ImagineDesignDevelop <bigwestwc@yahoo.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "select2": "^4.0.3",
+    "jquery": "^3.2.1"
+  }
+}
