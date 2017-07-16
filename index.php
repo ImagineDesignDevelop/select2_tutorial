@@ -6,9 +6,6 @@
 	<link rel="stylesheet" type="text/css" href="bower_components/select2/dist/css/select2.min.css">
 </head>
 <body>
-	
-
-
 	<form action="save.php" method="post">
 		<select style="width:700px" name="selections[]" class="selections" multiple="multiple">
 		  <option value="AL">Alabama</option>
@@ -21,13 +18,8 @@
 		<button type="submit">Save</button>
 	</form>
 
-
-
-
 	<script src="bower_components/jquery/dist/jquery.min.js"></script>
 	<script src="bower_components/select2/dist/js/select2.min.js"></script>
-
-
 
 		<script type="text/javascript">
 			$(".selections").select2();
